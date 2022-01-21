@@ -37,7 +37,10 @@ Once we had collected gender data we decided to repeat some earlier tests to fil
 ![](Images/Trips_by_Gender_Weekday_per_Hour.png)
 
 Finally we returned to our Weekday per Hour chart, now filtering for gender. Again, we find that we had found earlier continues to be true. Men use the bike share more foten than women and the most popular time to use the bikes are during commuter hours. The men and women charts appear to mirror one another with the main difference being that the men's have darker shading, indicating the higher user counts. 
+## Analysis
+
+With the findings we have we can conclude that the male audience is our target demogrpahic since they have the highest user count amongst the three demographics measured. Additonally, the length of bike rides have a mode of five minutes, meaning that most of the rides will not exceed this time span. We can also conclude that the most popular usage of the bikes is while commuting to work as the most common operation hours appear to be 7AM-8AM and 5PM-6PM Monday through Friday. Weekends appear to also become more active during the daytime hours, 9AM-5PM. This can insinuate that the bikes are also popular tools on the weekend for recreational activity. All of these factors should be taken into account when also thinking about the cost of repairs and replacements as the bikes may not be used for extended periods of times but it must be considered how the operators will handle them. 
 
 ## Recommendations
 
-This analysis could benefit from expanding it's data to include data from other months. Investors will most likely want to know how this bike sharing fairs in other months to ensure it is still profitable during the colder months and if it not what steps need to be taken to recue costs while the bikes are no longer in use. 
+This analysis could benefit from expanding it's data to include data from other months. Investors will most likely want to know how this bike sharing fairs in other months to ensure it is still profitable during the colder months and if it not what steps need to be taken to reduce costs while the bikes are no longer in use. An overview of the age ranges that use the bikes may also benefit the program as it will tell us who to cater our markering to and where to place advertisements when the time comes to open in Des Moine. 
